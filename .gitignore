@@ -1,0 +1,6 @@
+.git
+.idea
+node_modules
+**/bower_components
+dist/main.js
+.DS_Store
