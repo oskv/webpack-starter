@@ -1,4 +1,6 @@
 import {one} from './tabs'
+import './styles.css'
+import './gallery.css'
 
 console.log(333);
 function component() {
